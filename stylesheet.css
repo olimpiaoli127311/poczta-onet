@@ -5,3 +5,15 @@ h1{
     color:maroon;
     margin-left: 40px;
 }
+.nav-przycisk{
+border: 1px solid black;
+text-decoration: none;
+color: black;
+padding: 16px 22px;
+font-weight: bold;
+transition: background-color 0.2s;
+}
+.nav-przycisk:hover{
+    background-color: gray;
+
+}
