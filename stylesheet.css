@@ -30,8 +30,13 @@ transition: background-color 0.2s;
 
 }
 #menu{
-text-align: center;
+margin-left: auto;
+margin-right: auto;
 }
 #reklama-szkoly{
+text-align: center;
+background-color: darkgrey;
+}
+#logo-center{
 text-align: center;
 }
