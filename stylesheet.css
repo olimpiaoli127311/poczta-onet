@@ -40,4 +40,16 @@ background-color: darkgrey;
 #logo-center{
 text-align: center;
 }
+.reklamy-kierunku{
+text-align: center;
+}
+.Dniotwarte{
+position: absolute;top: 666px;left: auto;
+border: 1px solid black;
+}
+.Nniotwarte{
+position: absolute;right: 10px; left: auto;
+position: absolute;top: 666px;
+border: 1px solid black;
+}
 
